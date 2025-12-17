@@ -1,0 +1,41 @@
+channel,campaign_id,description,min_spend,max_spend,probability
+Google Ads,CAMP_G01,Search campaign targeting high-intent keywords,10,25,0.40
+Google Ads,CAMP_G02,Search campaign focusing on long-tail keywords,10,25,0.40
+Google Ads,CAMP_G03,Display campaign for broad awareness,10,25,0.40
+Google Ads,CAMP_G04,Display campaign with tighter audience targeting,10,25,0.40
+Google Ads,CAMP_G05,Shopping campaign promoting product listings,10,25,0.40
+Google Ads,CAMP_G06,Retargeting users who visited product pages,10,25,0.40
+Google Ads,CAMP_G07,Brand campaign protecting branded keywords,10,25,0.40
+Google Ads,CAMP_G08,Generic keyword campaign for wide reach,10,25,0.40
+Google Ads,CAMP_G09,Promotional campaign for discount periods,10,25,0.40
+Google Ads,CAMP_G10,Seasonal campaign for holiday events,10,25,0.40
+Facebook Ads,CAMP_F01,Conversion campaign optimized for purchases,8,20,0.30
+Facebook Ads,CAMP_F02,Traffic campaign driving users to website,8,20,0.30
+Facebook Ads,CAMP_F03,Engagement campaign boosting interactions,8,20,0.30
+Facebook Ads,CAMP_F04,Retargeting campaign for warm audiences,8,20,0.30
+Facebook Ads,CAMP_F05,Lookalike audience campaign,8,20,0.30
+Facebook Ads,CAMP_F06,Broad targeting campaign for reach,8,20,0.30
+Facebook Ads,CAMP_F07,Promotional campaign for sales events,8,20,0.30
+Facebook Ads,CAMP_F08,Catalog sales campaign with dynamic ads,8,20,0.30
+Facebook Ads,CAMP_F09,Video ads campaign for awareness,8,20,0.30
+Facebook Ads,CAMP_F10,Seasonal campaign for holiday periods,8,20,0.30
+Instagram,CAMP_I01,Story ads for fast engagement,5,15,0.20
+Instagram,CAMP_I02,Feed ads for visual product promotion,5,15,0.20
+Instagram,CAMP_I03,Reels ads for maximum reach,5,15,0.20
+Instagram,CAMP_I04,Influencer content amplification,5,15,0.20
+Instagram,CAMP_I05,Promotional campaign for flash sales,5,15,0.20
+Instagram,CAMP_I06,Retargeting users who interacted with posts,5,15,0.20
+Instagram,CAMP_I07,Engagement ads boosting likes and saves,5,15,0.20
+Instagram,CAMP_I08,Catalog ads showing dynamic products,5,15,0.20
+Instagram,CAMP_I09,Video ads for awareness,5,15,0.20
+Instagram,CAMP_I10,Seasonal campaign for festive periods,5,15,0.20
+Email Marketing,CAMP_E01,Newsletter with updates and content,1,5,0.10
+Email Marketing,CAMP_E02,Promotional email offering discounts,1,5,0.10
+Email Marketing,CAMP_E03,Abandoned cart recovery email,1,5,0.10
+Email Marketing,CAMP_E04,Winback email for inactive customers,1,5,0.10
+Email Marketing,CAMP_E05,Product launch announcement email,1,5,0.10
+Email Marketing,CAMP_E06,Behavior-based retargeting email,1,5,0.10
+Email Marketing,CAMP_E07,Loyalty program email for members,1,5,0.10
+Email Marketing,CAMP_E08,Seasonal email for holiday events,1,5,0.10
+Email Marketing,CAMP_E09,VIP email for premium customers,1,5,0.10
+Email Marketing,CAMP_E10,Flash sale email with limited-time offer,1,5,0.10
